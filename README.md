@@ -1,7 +1,7 @@
 # Gerenciador de Pagamentos de Futebol - API REST
 
 API REST desenvolvida em Java para um sistema simplificado de gerenciamento de pagamentos de mensalistas em jogos de futebol.
-Este projeto foi realizado como parte do Trabalho 02 da disciplina de Desenvolvimento Web pelos alunos: Fabio Gabriel Ivancheski Fagundes, Gabriel de Azevedo Zanini e Maria Eduarda de Oliveira Machado.
+Este projeto foi realizado como parte do Trabalho 02 da disciplina de Desenvolvimento Web pelos alunos: Fabio Gabriel Ivancheski Fagundes, Gabriel de Azevedo Zanini e Maria Eduarda Oliveira Machado.
 O sistema utiliza o ecossistema Spring (Spring Boot, Spring MVC, Spring Data JPA) e segue o padrão arquitetural MVC.
 O foco é a disponibilização de endpoints para o cadastro e consulta de jogadores e seus respectivos pagamentos, não incluindo interface gráfica.
 
