@@ -1,16 +1,16 @@
 # Gerenciador de Pagamentos de Futebol - API REST
 
-API REST desenvolvida em Java para um sistema simplificado de gerenciamento de pagamentos de mensalistas em jogos de futebol[cite: 1].
-Este projeto foi realizado como parte do Trabalho 01 da disciplina de Desenvolvimento Web.
-O sistema utiliza o ecossistema Spring (Spring Boot, Spring MVC, Spring Data JPA) e segue o padrão arquitetural MVC[cite: 2].
-O foco é a disponibilização de endpoints para o cadastro e consulta de jogadores e seus respectivos pagamentos, não incluindo interface gráfica[cite: 3].
+API REST desenvolvida em Java para um sistema simplificado de gerenciamento de pagamentos de mensalistas em jogos de futebol.
+Este projeto foi realizado como parte do Trabalho 02 da disciplina de Desenvolvimento Web pelos alunos: Fabio Gabriel Ivancheski Fagundes, Gabriel Zanini de Azevedo e Maria Eduarda Machado de Oliveira.
+O sistema utiliza o ecossistema Spring (Spring Boot, Spring MVC, Spring Data JPA) e segue o padrão arquitetural MVC.
+O foco é a disponibilização de endpoints para o cadastro e consulta de jogadores e seus respectivos pagamentos, não incluindo interface gráfica.
 
 ## Tecnologias Utilizadas
 
 * **Java:** JDK 20 (ou a versão configurada no `pom.xml`)
 * **Spring Boot:** (v3.2.5 ou a versão utilizada no `pom.xml`)
     * **Spring MVC:** Para a construção da API REST.
-    * **Spring Data JPA:** Para persistência de dados e interação com o banco de dados[cite: 4].
+    * **Spring Data JPA:** Para persistência de dados e interação com o banco de dados.
 * **Hibernate:** Como provedor JPA padrão do Spring Data JPA.
 * **Maven:** Para gerenciamento de dependências e build do projeto.
 * **H2 Database:** Banco de dados em memória utilizado para desenvolvimento (configurável para outros bancos).
